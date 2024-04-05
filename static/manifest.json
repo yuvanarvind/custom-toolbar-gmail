@@ -1,6 +1,6 @@
 {
-  "name": "Example Gmail Extension",
-  "description": "Example extension showing use of the Streak Gmail SDK",
+  "name": "Gmail Custom Toolbar",
+  "description": "Gmail Custom Toolbar to Create Tickets",
   "version": "0.1",
   "content_scripts": [
     {

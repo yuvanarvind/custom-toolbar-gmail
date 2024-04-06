@@ -10,6 +10,7 @@ InboxSDK.load(2, "sdk_toolabr_64edead0a3").then((sdk) => {
       try {
         // Retrieve selected threads
         // const authToken = process.env.AUTH_TOKEN;
+        alert("Ticket Created Successfully")
 
         const selectedThreads = await sdk.Lists.getSelectedThreadRowViews();
 

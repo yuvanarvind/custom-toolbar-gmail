@@ -1,6 +1,6 @@
 # Gmail Custom Toolbar to Create Tickets
 
-<video src="https://www.loom.com/share/0c58d2b7bc1348d0bcd9c22993284b98?sid=e2b9ef4f-8289-4d7c-b124-a1b1e7db43bc"></video>
+https://www.loom.com/share/0c58d2b7bc1348d0bcd9c22993284b98?sid=e2b9ef4f-8289-4d7c-b124-a1b1e7db43bc
 
 ## Instructions
 

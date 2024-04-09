@@ -1,6 +1,6 @@
 # Gmail Custom Toolbar to Create Tickets
 
-<img width="582" alt="readme-example" src="https://user-images.githubusercontent.com/577345/195166155-cb2b35aa-b998-4f21-ad08-5ec1ad851f10.png">
+<video src="https://www.loom.com/share/0c58d2b7bc1348d0bcd9c22993284b98?sid=e2b9ef4f-8289-4d7c-b124-a1b1e7db43bc"></video>
 
 ## Instructions
 
